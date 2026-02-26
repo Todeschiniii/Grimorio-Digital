@@ -251,4 +251,4 @@ Projeto desenvolvido para fins educacionais.
 2. <b>Heitor Pinheiro</b> - GitHub: https://github.com/HeitorPinheiro11<br>
 3. <b>Davi Dancuart</b> - GitHub: https://github.com/DaviDancuart<br>
 
-Repositório: https://github.com/Todeschiniii/Sistema-Gerenciador-de-IMC
+Repositório: https://github.com/Todeschiniii/Grimorio-Digital
